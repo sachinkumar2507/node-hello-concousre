@@ -2,7 +2,7 @@ resources:
 - name: repo
   type: git
   source:
-    uri: 
+    uri: https://github.com/sachinkumar2507/node-hello-concousre.git
     branch: master
 
 - name: node-hello
